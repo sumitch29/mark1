@@ -5,7 +5,7 @@ var score = 0;
 
 var userName = readlineSync.question("What is your Name? ");
 
-console.log("Welcome " + userName + ", Do you know Sumit? ");
+console.log("Welcome " + userName + ", to Do you know Sumit? ");
 
 
 var questions = [{
